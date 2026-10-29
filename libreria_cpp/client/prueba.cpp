@@ -2,7 +2,7 @@
 #include <iostream>
 
 int main(int argc, char* argv[]) {
-    int num_prueba = 77689559;
+    int num_prueba = 12345678;
     char letra_calculada = DniUtils::calcular_letra(num_prueba);
     std::cout << "Dni calculado: " << num_prueba << letra_calculada << std::endl;
 
