@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.example","c":"DniUtils","l":"calcularLetra(int)"},{"p":"com.example","c":"DniUtils","l":"validarDni(String)","u":"validarDni(java.lang.String)"}];updateSearchResults();
